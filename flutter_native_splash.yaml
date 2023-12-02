@@ -1,0 +1,10 @@
+flutter_native_splash:
+   color: "#ffffff"
+  # Image that you want to show
+  image: assets/splash.png
+  # Sizing of image
+  fill: true
+  # Splash Image to show in dark mode (Optional)
+  image_dark: assets/splash.png
+  # Background color of dark mode (Optional)
+  color_dark: "#000000"
